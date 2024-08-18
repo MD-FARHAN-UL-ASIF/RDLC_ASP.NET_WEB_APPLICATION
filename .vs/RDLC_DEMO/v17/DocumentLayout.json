@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\RDLC_DEMO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|f:\\rdlc_demo\\rdlc_demo\\reportview\\report_2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|solutionrelative:rdlc_demo\\reportview\\report_2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|F:\\RDLC_DEMO\\rdlc_demo\\reports\\orderdetails.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|solutionrelative:rdlc_demo\\reports\\orderdetails.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|F:\\RDLC_DEMO\\rdlc_demo\\reports\\customerdetails.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|solutionrelative:rdlc_demo\\reports\\customerdetails.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|F:\\RDLC_DEMO\\rdlc_demo\\reportview\\report_1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|solutionrelative:rdlc_demo\\reportview\\report_1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|F:\\RDLC_DEMO\\rdlc_demo\\reportview\\report_2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|solutionrelative:rdlc_demo\\reportview\\report_2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|F:\\RDLC_DEMO\\rdlc_demo\\reportdataset\\practices.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|solutionrelative:rdlc_demo\\reportdataset\\practices.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|F:\\RDLC_DEMO\\rdlc_demo\\reportdataset\\sales.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|solutionrelative:rdlc_demo\\reportdataset\\sales.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|F:\\RDLC_DEMO\\rdlc_demo\\reportdataset\\customers.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|solutionrelative:rdlc_demo\\reportdataset\\customers.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|F:\\RDLC_DEMO\\rdlc_demo\\reportview\\report_1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|solutionrelative:rdlc_demo\\reportview\\report_1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|F:\\RDLC_DEMO\\rdlc_demo\\reports\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|solutionrelative:rdlc_demo\\reports\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|F:\\RDLC_DEMO\\rdlc_demo\\reportdataset\\products.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|solutionrelative:rdlc_demo\\reportdataset\\products.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|F:\\RDLC_DEMO\\rdlc_demo\\reportdataset\\products.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|solutionrelative:rdlc_demo\\reportdataset\\products.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|F:\\RDLC_DEMO\\rdlc_demo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AF64877C-6A6B-4A6F-A6D8-B779497BB028}|RDLC_DEMO\\RDLC_DEMO.csproj|solutionrelative:rdlc_demo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "report_2.aspx.cs",
+              "DocumentMoniker": "F:\\RDLC_DEMO\\RDLC_DEMO\\ReportView\\report_2.aspx.cs",
+              "RelativeDocumentMoniker": "RDLC_DEMO\\ReportView\\report_2.aspx.cs",
+              "ToolTip": "F:\\RDLC_DEMO\\RDLC_DEMO\\ReportView\\report_2.aspx.cs",
+              "RelativeToolTip": "RDLC_DEMO\\ReportView\\report_2.aspx.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAswDQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T03:57:32.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "report_2.aspx",
+              "DocumentMoniker": "F:\\RDLC_DEMO\\RDLC_DEMO\\ReportView\\report_2.aspx",
+              "RelativeDocumentMoniker": "RDLC_DEMO\\ReportView\\report_2.aspx",
+              "ToolTip": "F:\\RDLC_DEMO\\RDLC_DEMO\\ReportView\\report_2.aspx",
+              "RelativeToolTip": "RDLC_DEMO\\ReportView\\report_2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-13T03:52:24.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDetails.rdlc [Design]",
+              "DocumentMoniker": "F:\\RDLC_DEMO\\RDLC_DEMO\\Reports\\OrderDetails.rdlc",
+              "RelativeDocumentMoniker": "RDLC_DEMO\\Reports\\OrderDetails.rdlc",
+              "ToolTip": "F:\\Practice FARHANX\\RDLC_DEMO\\RDLC_DEMO\\Reports\\OrderDetails.rdlc [Design]",
+              "RelativeToolTip": "..\\Practice FARHANX\\RDLC_DEMO\\RDLC_DEMO\\Reports\\OrderDetails.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-08-13T03:48:40.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Products.Designer.cs",
+              "DocumentMoniker": "F:\\RDLC_DEMO\\RDLC_DEMO\\ReportDataSet\\Products.Designer.cs",
+              "RelativeDocumentMoniker": "RDLC_DEMO\\ReportDataSet\\Products.Designer.cs",
+              "ToolTip": "F:\\RDLC_DEMO\\RDLC_DEMO\\ReportDataSet\\Products.Designer.cs",
+              "RelativeToolTip": "RDLC_DEMO\\ReportDataSet\\Products.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T03:47:12.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Practices.xsd",
+              "DocumentMoniker": "F:\\RDLC_DEMO\\RDLC_DEMO\\ReportDataSet\\Practices.xsd",
+              "RelativeDocumentMoniker": "RDLC_DEMO\\ReportDataSet\\Practices.xsd",
+              "ToolTip": "F:\\RDLC_DEMO\\RDLC_DEMO\\ReportDataSet\\Practices.xsd",
+              "RelativeToolTip": "RDLC_DEMO\\ReportDataSet\\Practices.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-08-13T03:42:56.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Products.xsd",
+              "DocumentMoniker": "F:\\RDLC_DEMO\\RDLC_DEMO\\ReportDataSet\\Products.xsd",
+              "RelativeDocumentMoniker": "RDLC_DEMO\\ReportDataSet\\Products.xsd",
+              "ToolTip": "F:\\RDLC_DEMO\\RDLC_DEMO\\ReportDataSet\\Products.xsd",
+              "RelativeToolTip": "RDLC_DEMO\\ReportDataSet\\Products.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-08-13T03:41:56.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sales.xsd",
+              "DocumentMoniker": "F:\\RDLC_DEMO\\RDLC_DEMO\\ReportDataSet\\Sales.xsd",
+              "RelativeDocumentMoniker": "RDLC_DEMO\\ReportDataSet\\Sales.xsd",
+              "ToolTip": "F:\\RDLC_DEMO\\RDLC_DEMO\\ReportDataSet\\Sales.xsd",
+              "RelativeToolTip": "RDLC_DEMO\\ReportDataSet\\Sales.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-08-13T03:33:42.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customers.xsd",
+              "DocumentMoniker": "F:\\RDLC_DEMO\\RDLC_DEMO\\ReportDataSet\\Customers.xsd",
+              "RelativeDocumentMoniker": "RDLC_DEMO\\ReportDataSet\\Customers.xsd",
+              "ToolTip": "F:\\RDLC_DEMO\\RDLC_DEMO\\ReportDataSet\\Customers.xsd",
+              "RelativeToolTip": "RDLC_DEMO\\ReportDataSet\\Customers.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-08-13T03:14:22.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Report1.rdlc [Design]",
+              "DocumentMoniker": "F:\\RDLC_DEMO\\RDLC_DEMO\\Reports\\Report1.rdlc",
+              "RelativeDocumentMoniker": "RDLC_DEMO\\Reports\\Report1.rdlc",
+              "ToolTip": "F:\\Practice FARHANX\\RDLC_DEMO\\RDLC_DEMO\\Reports\\Report1.rdlc [Design]",
+              "RelativeToolTip": "..\\Practice FARHANX\\RDLC_DEMO\\RDLC_DEMO\\Reports\\Report1.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-08-12T10:47:42.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "F:\\RDLC_DEMO\\RDLC_DEMO\\Web.config",
+              "RelativeDocumentMoniker": "RDLC_DEMO\\Web.config",
+              "ToolTip": "F:\\RDLC_DEMO\\RDLC_DEMO\\Web.config",
+              "RelativeToolTip": "RDLC_DEMO\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-12T09:57:12.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerDetails.rdlc [Design]",
+              "DocumentMoniker": "F:\\RDLC_DEMO\\RDLC_DEMO\\Reports\\CustomerDetails.rdlc",
+              "RelativeDocumentMoniker": "RDLC_DEMO\\Reports\\CustomerDetails.rdlc",
+              "ToolTip": "F:\\Practice FARHANX\\RDLC_DEMO\\RDLC_DEMO\\Reports\\CustomerDetails.rdlc [Design]",
+              "RelativeToolTip": "..\\Practice FARHANX\\RDLC_DEMO\\RDLC_DEMO\\Reports\\CustomerDetails.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-08-12T09:40:31.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "report_1.aspx.cs",
+              "DocumentMoniker": "F:\\RDLC_DEMO\\RDLC_DEMO\\ReportView\\report_1.aspx.cs",
+              "RelativeDocumentMoniker": "RDLC_DEMO\\ReportView\\report_1.aspx.cs",
+              "ToolTip": "F:\\RDLC_DEMO\\RDLC_DEMO\\ReportView\\report_1.aspx.cs",
+              "RelativeToolTip": "RDLC_DEMO\\ReportView\\report_1.aspx.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCAAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:45:41.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "report_1.aspx",
+              "DocumentMoniker": "F:\\RDLC_DEMO\\RDLC_DEMO\\ReportView\\report_1.aspx",
+              "RelativeDocumentMoniker": "RDLC_DEMO\\ReportView\\report_1.aspx",
+              "ToolTip": "F:\\RDLC_DEMO\\RDLC_DEMO\\ReportView\\report_1.aspx",
+              "RelativeToolTip": "RDLC_DEMO\\ReportView\\report_1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-12T09:43:12.48Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
